@@ -1,6 +1,6 @@
 ### esdoc
 ---
-https://devdocs.io/
+https://github.com/esdoc/esdoc
 
 ```
 ```
