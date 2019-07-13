@@ -16,7 +16,7 @@ describe('MyClass has foo bar feature', ()=>{
 });
 ```
 
-```
+```sh
 open ./docs/index.html
 cd your-project/
 npm install --save-dev esdoc esdoc-standard-plugin
